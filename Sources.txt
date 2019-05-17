@@ -1,0 +1,5 @@
+List of Sources:
+
+1) Gapminder Dataset: https://www.gapminder.org/data/
+2) Gapminder Regions: https://www.gapminder.org/fw/four-regions/
+3) Hyperinflation Definition: https://www.thebalance.com/what-is-hyperinflation-definition-causes-and-examples-3306097
