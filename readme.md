@@ -1,8 +1,6 @@
-Readme:
-
 ## Purpose
 
-The purpose of this project is to perform basis data analysis of a Gapminder data subset. The Gapminder dataset consists of national indicators for countries around the world. This repository contains the project that I passed at the beginning of the Udacity Data Analyst program.
+The purpose of this project is to perform basic data analysis of a Gapminder data subset. The Gapminder dataset consists of national indicators for countries around the world. This repository contains the project that I passed at the beginning of the Udacity Data Analyst program.
 
 Specifically, I looked at:
 
@@ -50,8 +48,14 @@ Basic data visualization
 
 3. Package requirements can be found in the requirements.txt file.
 
+## Limitations
+
+This project was focused primarily on a high level Data Analysis process (High-level Data Wrangling, Exploratory Data Analysis, Conclusions). We focused most on the Exploratory Data Analysis part.
+
 ## Credits
 
 * Example readme file template 1: https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md
 
 * Gapminder dataset: https://www.gapminder.org/data/
+
+* Udacity Data Analyst Program contents
